@@ -9,7 +9,7 @@ For the first 3 weeks, we will run 2 lectures per week, each roughly 1 hour long
 ### Part A: Groups and Representations
 - [Lecture 1](lectures/lecture_1.pdf) (June 9th) | Soft introduction to machine learning, neural networks, convolutional and graph neural networks, with an eye towards geometry and topology.
 - [Lecture 2](lectures/lecture_2.pdf) (June 13rd) | Introduction to groups, representations, vector bundles, principle G-bundles, gauge theory.
-- [Lecture 3](lectures/lecture_3.pdf) (June 16th) | Applications of representations and gauge theory (equivariant machine learning).
+- [Lecture 3](lectures/lecture_3.pdf) (June 16th) | Equivariant and convolutional neural networks on homogeneous spaces and examples.
 
 ### Part B: Manifolds
 - Lecture 4 (June 20th) | Introduction to differentiable manifolds.
