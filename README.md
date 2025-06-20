@@ -12,7 +12,7 @@ For the first 3 weeks, we will run 2 lectures per week, each roughly 1 hour long
 - [Lecture 3](lectures/lecture_3.pdf) (June 16th) | Equivariant and convolutional neural networks on homogeneous spaces and examples.
 
 ### Part B: Manifolds
-- Lecture 4 (June 20th) | Introduction to differentiable manifolds.
+- [Lecture 4](lectures/lecture_4.pdf) (June 20th) | Introduction to differentiable manifolds. Tangent and cotangent spaces/bundles, normal bundles, smooth maps, regular value theorem, Lie groups and Lie algebras, boundary and orientations.
 - Lecture 5 (June 23rd) | Introduction to Riemannian manifolds.
 - Lecture 6 (June 27th) | Applications of manifolds in machine learning.
 
