@@ -13,8 +13,8 @@ For the first 3 weeks, we will run 2 lectures per week, each roughly 1 hour long
 
 ### Part B: Manifolds
 - [Lecture 4](lectures/lecture_4.pdf) (June 20th) | Introduction to differentiable manifolds. Tangent and cotangent spaces/bundles, normal bundles, smooth maps, regular value theorem, Lie groups and Lie algebras, boundary and orientations.
-- Lecture 5 (June 23rd) | Introduction to Riemannian manifolds.
-- Lecture 6 (June 27th) | Applications of manifolds in machine learning.
+- [Lecture 5](lectures/lecture_5.pdf) (June 23rd) | Introduction to Riemannian manifolds, constructing feature spaces in Coordinate-Independent CNNs, gauge theory and G-structures, Mobius Band CNN as an example. ([Annotated version](lectures/lecture_5_annotated.pdf)
+- Lecture 6 (June 30th) | Applications of manifolds in machine learning.
 
 ### Paper Presentations
 
@@ -24,7 +24,6 @@ The remaining weeks of the seminar will be paper presentations. Volunteered part
 
 | Date    | Paper | Presenter |
 | -------- | ------- |------- |
-| June 30th|||
 | July 7th|||
 | July 14th|||
 | July 21st|||
