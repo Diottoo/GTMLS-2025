@@ -16,6 +16,15 @@ For the first 3 weeks, we will run 2 lectures per week, each roughly 1 hour long
 - [Lecture 5](lectures/lecture_5.pdf) (June 23rd) | Introduction to Riemannian manifolds, constructing feature spaces in Coordinate-Independent CNNs, gauge theory and G-structures, Mobius Band CNN as an example. ([Annotated version](lectures/lecture_5_annotated.pdf)
 - Lecture 6 (June 30th) | Applications of manifolds in machine learning.
 
+The main reference for **Part A** is
+```
+Taco Cohen, Mario Geiger, Maurice Weiler. A general theory of equivariant CNNs on homogeneous spaces.
+```
+The main reference for **Part B** is
+```
+Maurice Weiler, Patrick Forré, Erik Verlinde, Max Welling. Equivariant and Coordinate Independent Convolutional Networks: A Gauge Field Theory of Neural Networks
+```
+
 ### Paper Presentations
 
 The remaining weeks of the seminar will be paper presentations. Volunteered participants from the seminar would give presentations on a research paper of their choice related to this seminar.
