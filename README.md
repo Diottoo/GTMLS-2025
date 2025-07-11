@@ -13,8 +13,8 @@ For the first 3 weeks, we will run 2 lectures per week, each roughly 1 hour long
 
 ### Part B: Manifolds
 - [Lecture 4](lectures/lecture_4.pdf) (June 20th) | Introduction to differentiable manifolds. Tangent and cotangent spaces/bundles, normal bundles, smooth maps, regular value theorem, Lie groups and Lie algebras, boundary and orientations.
-- [Lecture 5](lectures/lecture_5.pdf) (June 23rd) | Introduction to Riemannian manifolds, constructing feature spaces in Coordinate-Independent CNNs, gauge theory and G-structures, Mobius Band CNN as an example. ([Annotated version](lectures/lecture_5_annotated.pdf)
-- Lecture 6 (June 30th) | Applications of manifolds in machine learning.
+- [Lecture 5](lectures/lecture_5.pdf) (June 23rd) | Introduction to Riemannian manifolds, constructing feature spaces in Coordinate-Independent CNNs, gauge theory and G-structures, Mobius Band CNN as an example. ([Annotated version](lectures/lecture_5_annotated.pdf))
+- [Lecture 6](lectures/lecture_6.pdf) (June 30th) | ore on Coordinate-Independent CNNs: Convolutions and Isometry. 1x1 GM-convolutions, Kernel Field Transformations, and GM-convolutions, Isometry Equivariance.
 
 The main reference for **Part A** is
 ```
@@ -24,6 +24,7 @@ The main reference for **Part B** is
 ```
 Maurice Weiler, Patrick Forré, Erik Verlinde, Max Welling. Equivariant and Coordinate Independent Convolutional Networks: A Gauge Field Theory of Neural Networks
 ```
+Note that much of **Part A** is also discussed in the main reference for **Part B**. 
 
 ### Paper Presentations
 
@@ -33,8 +34,7 @@ The remaining weeks of the seminar will be paper presentations. Volunteered part
 
 | Date    | Paper | Presenter |
 | -------- | ------- |------- |
-| July 7th|||
-| July 14th|||
+| July 14th|[ReLU Neural Networks, Polyhedral Decompositions, and Persistent Homology](https://arxiv.org/abs/2306.17418)|Vicente Bosca|
 | July 21st|||
 | July 28th|||
 | August 4th|||
