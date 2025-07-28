@@ -37,7 +37,7 @@ The remaining weeks of the seminar will be paper presentations. Volunteered part
 | -------- | ------- | ------- |------- |
 | July 14th|[Polyhedral decomposition of Feed-Forward ReLU Neural Networks](talks/talk_1.pdf)| [Link](talks/abstract_1.txt) |Vicente Bosca|
 | July 21st|Geometric and Topological Methods for Machine Learning in Molecular Dynamics: A Historical and Practical Perspective|[Link](talks/abstract_2.txt)|Matthew Meeker|
-| July 28th||||
+| July 28th|[Hyperbolic Geometry and Neural Networks](talks/talk_3.pdf)|[Link](talks/abstract_3.txt)|Riley Guyett|
 | August 4th||||
 | August 11th||||
 | August 18th||||
