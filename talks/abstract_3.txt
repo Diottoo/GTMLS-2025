@@ -1,0 +1,7 @@
+Title: Hyperbolic Geometry and Neural Networks
+
+Speaker: Riley Guyett
+
+Abstract: Many problems in machine learning and AI involve learning from graph-structured data. Usually this data has some kind of hierarchy (e.g. a tree structure) and the graph is usually thought of as embedded in some very large-dimensional Euclidean space. However, hierarchical data structures gain no geometric benefit from Euclidean space. Hyperbolic space in contrast does offer geometric benefits. Furthermore, there are many "equivalent" hyperbolic spaces which can simplify our machine learning models in different ways.
+
+In this talk, we will discuss various models of Hyperbolic space, how they can be better equipped to embed our graphs/data into, and current research showing the strengths and weaknesses of hyperbolic geometry in natural language processing, graph embedding, and computer vision.
