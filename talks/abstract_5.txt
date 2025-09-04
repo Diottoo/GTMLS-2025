@@ -1,0 +1,5 @@
+Title: Network sheaves and laplacians in neural networks
+
+Speaker: Daiyuan Li
+
+Abstract: This talk is about a progression from the classical graph Laplacian to sheaf generalizations for learning on networks. We begin with the graph Laplacians and the role in spectral graph theory and diffusion dynamics. We then introduce network sheaves as a unifying choice for encoding heterogeneous, higher-order relationships via local data stalks and restriction maps. With these basics, we define the sheaf Laplacian and the corresponding neural networks: Sheaf Neural Networks (SNNs) and Neural Sheaf Diffusion (NSD).
